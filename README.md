@@ -1,2 +1,2 @@
 # CheckProject
-This is for test
+Hello everyone, this is CheckProject's very first folder.
